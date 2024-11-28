@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.p_margeblock{
+   @apply px-4 lg:px-16 mt-3
+}
+.p_titresection{
+    @apply text-xl font-bold
+}
+.p_text{
+    @apply text-xs
+}
